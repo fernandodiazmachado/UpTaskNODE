@@ -8,10 +8,7 @@ body {
     font-family: 'Lato', sans-serif;
     min-height: 100vh;
 }
-/*Personalizado*/
-.black{
-    color: black;
-}
+
 
 /** Login **/
 .login,
@@ -338,4 +335,10 @@ form input[type="submit"]{
     margin: 0;
     text-align: center;
     display: block;
+}
+
+/*Personalizado*/
+.black{
+    color:red !important;
+    background-color: black;
 }
