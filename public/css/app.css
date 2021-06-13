@@ -8,6 +8,11 @@ body {
     font-family: 'Lato', sans-serif;
     min-height: 100vh;
 }
+/*Personalizado*/
+.black{
+    color: black;
+}
+
 /** Login **/
 .login,
 .crear-cuenta {
